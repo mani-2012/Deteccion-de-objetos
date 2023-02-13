@@ -1,0 +1,28 @@
+body{
+    color: rgb(243, 167, 137);
+    background-size: cover;
+}
+h1{
+    background-color: rgb(191, 225, 252);
+}
+label{
+    background-color: rgb(242, 144, 144);
+    color: whitesmoke;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    border-radius: 20px;
+    border-color: burlywood;
+    border-style: solid;
+    background-color:lightpink ;
+}
