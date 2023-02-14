@@ -13,4 +13,11 @@ function draw() {
     stroke("burlywood");
     strokeWeight(07);
     rect(360,160,120,130);
+
+    fill("blue");
+    text("Isabella",220,83);
+    noFill();
+    stroke("pink");
+    strokeWeight(07);
+    rect(210,90,140,190);
 }
